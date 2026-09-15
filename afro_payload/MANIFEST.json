@@ -1,0 +1,65 @@
+{
+  "generated_utc": "2026-09-15T02:10:23.598161+00:00",
+  "files": [
+    {
+      "official_filename": "KEN_R10_2024_official.sav",
+      "source_url": "https://www.afrobarometer.org/wp-content/uploads/2025/06/KEN_R10.Data_28June24.wtd_.final_.release_updated.13Feb25.sav",
+      "official_sha256": "6b53c17ddcd5cd5613446d2da2d8a034476bfd2c93baaf87d3e5a52d940a8ccd",
+      "official_bytes": 2371044,
+      "rows": 2400,
+      "columns": 380,
+      "source_representation": "sav_raw_numeric_codes_with_labels"
+    },
+    {
+      "official_filename": "MDG_R10_2024_official.csv",
+      "source_url": "https://www.afrobarometer.org/wp-content/uploads/2025/11/MAD_R10.Data_02Dec24.wtd_.final_.release_updated.13Feb25.csv",
+      "official_sha256": "e165d5d782beb9d531b1161581a6cd52698052a8b8d8cf5909d83b8e78a741da",
+      "official_bytes": 7756821,
+      "rows": 1200,
+      "columns": 370,
+      "source_representation": "official_csv_exact_cell_values"
+    },
+    {
+      "official_filename": "NGA_R10_2024_official.csv",
+      "source_url": "https://www.afrobarometer.org/wp-content/uploads/2025/11/NIG_R10.Data_18Nov24.wtd_.final_.release_updated.13Feb25.csv",
+      "official_sha256": "abd2cbccb6f9739576e0c76c276672ae0ca49233b537b0c2e77a2c8d2e4dddb7",
+      "official_bytes": 8646385,
+      "rows": 1600,
+      "columns": 382,
+      "source_representation": "official_csv_exact_cell_values"
+    },
+    {
+      "official_filename": "TZA_R10_2024_official.sav",
+      "source_url": "https://www.afrobarometer.org/wp-content/uploads/2025/11/TAN_R10.Data_20Sep24.wtd_.final_.release_updated.13Feb25.sav",
+      "official_sha256": "009e0807e5bfda90001277b566ea2e3e5c0ead5489fa10ecc1f8667daf17a60e",
+      "official_bytes": 2111198,
+      "rows": 2400,
+      "columns": 374,
+      "source_representation": "sav_raw_numeric_codes_with_labels"
+    },
+    {
+      "official_filename": "ZMB_R10_2024_official.csv",
+      "source_url": "https://www.afrobarometer.org/wp-content/uploads/2025/11/ZAM_R10.Data_27Sep24.wtd_.final_.release_updated.13Feb25.csv",
+      "official_sha256": "6d4247ed626030f1663d38852a270ef5fc983c7b92397f738db7831690a2ff53",
+      "official_bytes": 5954654,
+      "rows": 1200,
+      "columns": 369,
+      "source_representation": "official_csv_exact_cell_values"
+    },
+    {
+      "official_filename": "ZAF_R9_2022_official.sav",
+      "source_url": "https://www.afrobarometer.org/wp-content/uploads/2024/02/SAF_R9.data_.final_.wtd_release.30May23.sav",
+      "official_sha256": "d99670bc7c30be675ac789ee41f0034c379d333b16951ac78e2d9571a582f75b",
+      "official_bytes": 1605615,
+      "rows": 1580,
+      "columns": 390,
+      "source_representation": "sav_raw_numeric_codes_with_labels"
+    }
+  ],
+  "note": "KEN/MDG/NGA/TZA/ZMB use Round 10 2024. ZAF uses latest public respondent microdata located as of 2026-09-14: Round 9 2022; Round 10 2025 aggregate results exist but respondent microdata were not publicly listed.",
+  "bundle_json_bytes": 11690395,
+  "bundle_xz_bytes": 1266456,
+  "bundle_base64_chars": 1688608,
+  "parts": 10,
+  "bundle_xz_sha256": "cdb94678f6044e93341666f53947972449dc0f6d4ee330d716c4ad440a476b8d"
+}
