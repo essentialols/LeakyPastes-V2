@@ -1,0 +1,72 @@
+{
+  "archive_name": "afrobarometer_full_respondent_microdata.7z",
+  "archive_bytes": 1159658,
+  "archive_sha256": "39e3555879fb135f6d4a210d000290a2b8c6658f1c31091efd07fd7860af6bea",
+  "base64_chars": 1546212,
+  "parts": 9,
+  "source_manifest": {
+    "format": "full respondent-level data; all rows and columns",
+    "files": [
+      {
+        "iso3": "KEN",
+        "round": "R10",
+        "source_url": "https://www.afrobarometer.org/wp-content/uploads/2025/06/KEN_R10.Data_28June24.wtd_.final_.release_updated.13Feb25.sav",
+        "official_sha256": "6b53c17ddcd5cd5613446d2da2d8a034476bfd2c93baaf87d3e5a52d940a8ccd",
+        "rows": 2400,
+        "columns": 380,
+        "data_file": "KEN_R10_raw_codes.csv",
+        "metadata_file": "KEN_R10_sav_metadata.json"
+      },
+      {
+        "iso3": "MDG",
+        "round": "R10",
+        "source_url": "https://www.afrobarometer.org/wp-content/uploads/2025/11/MAD_R10.Data_02Dec24.wtd_.final_.release_updated.13Feb25.csv",
+        "official_sha256": "e165d5d782beb9d531b1161581a6cd52698052a8b8d8cf5909d83b8e78a741da",
+        "rows": 1200,
+        "columns": 370,
+        "data_file": "MDG_R10_official.csv",
+        "metadata_file": null
+      },
+      {
+        "iso3": "NGA",
+        "round": "R10",
+        "source_url": "https://www.afrobarometer.org/wp-content/uploads/2025/11/NIG_R10.Data_18Nov24.wtd_.final_.release_updated.13Feb25.csv",
+        "official_sha256": "abd2cbccb6f9739576e0c76c276672ae0ca49233b537b0c2e77a2c8d2e4dddb7",
+        "rows": 1600,
+        "columns": 382,
+        "data_file": "NGA_R10_official.csv",
+        "metadata_file": null
+      },
+      {
+        "iso3": "TZA",
+        "round": "R10",
+        "source_url": "https://www.afrobarometer.org/wp-content/uploads/2025/11/TAN_R10.Data_20Sep24.wtd_.final_.release_updated.13Feb25.sav",
+        "official_sha256": "009e0807e5bfda90001277b566ea2e3e5c0ead5489fa10ecc1f8667daf17a60e",
+        "rows": 2400,
+        "columns": 374,
+        "data_file": "TZA_R10_raw_codes.csv",
+        "metadata_file": "TZA_R10_sav_metadata.json"
+      },
+      {
+        "iso3": "ZMB",
+        "round": "R10",
+        "source_url": "https://www.afrobarometer.org/wp-content/uploads/2025/11/ZAM_R10.Data_27Sep24.wtd_.final_.release_updated.13Feb25.csv",
+        "official_sha256": "6d4247ed626030f1663d38852a270ef5fc983c7b92397f738db7831690a2ff53",
+        "rows": 1200,
+        "columns": 369,
+        "data_file": "ZMB_R10_official.csv",
+        "metadata_file": null
+      },
+      {
+        "iso3": "ZAF",
+        "round": "R9",
+        "source_url": "https://www.afrobarometer.org/wp-content/uploads/2024/02/SAF_R9.data_.final_.wtd_release.30May23.sav",
+        "official_sha256": "d99670bc7c30be675ac789ee41f0034c379d333b16951ac78e2d9571a582f75b",
+        "rows": 1580,
+        "columns": 390,
+        "data_file": "ZAF_R9_raw_codes.csv",
+        "metadata_file": "ZAF_R9_sav_metadata.json"
+      }
+    ]
+  }
+}
